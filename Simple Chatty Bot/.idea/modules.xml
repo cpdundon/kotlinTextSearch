@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Compare Latin letters/Simple_Chatty_Bot.Problems-Compare_Latin_letters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Compare Latin letters/Simple_Chatty_Bot.Problems-Compare_Latin_letters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sequence/Simple_Chatty_Bot.Problems-Sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sequence/Simple_Chatty_Bot.Problems-Sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Chatty_Bot.util.iml" />
+    </modules>
+  </component>
+</project>
